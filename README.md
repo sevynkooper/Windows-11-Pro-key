@@ -24,3 +24,5 @@ References
 ==========
 
 [https://www.quora.com/Where-can-I-buy-a-cheap-working-Windows-11-product-key](https://www.quora.com/Where-can-I-buy-a-Windows-11-Pro-key)
+https://www.reddit.com/r/itaid/comments/1d1k6qs/where_do_you_all_find_windows_11_pro_keys_cheap/
+https://www.reddit.com/r/itaid/comments/1d1dame/windows_11_pro_key/
