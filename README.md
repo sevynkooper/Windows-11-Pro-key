@@ -28,3 +28,5 @@ References
 https://www.reddit.com/r/itaid/comments/1d1k6qs/where_do_you_all_find_windows_11_pro_keys_cheap/
 
 https://www.reddit.com/r/itaid/comments/1d1dame/windows_11_pro_key/
+
+https://groups.google.com/g/windows-11-pro-key
