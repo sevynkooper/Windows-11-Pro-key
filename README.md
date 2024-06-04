@@ -8,17 +8,16 @@ https://www.sftkey.com/product/windows-11-pro-retail-key/
 
 These keys merely determine the edition of Windows to install during setup; they do not activate or provide a valid license for the installation.
 
-Windows 11 Pro	: VK7JG-NPHTM-C97JM-9MPGT-3V66T
 
-Windows 11 Pro N	: 2B87N-8KFHP-DKV6R-Y2C8J-PKCKT
+| Windows Version                      | Product Key                   |
+|:-------------------------------------|:------------------------------|
+| Windows 11 Pro                       | W269N-WFGWX-YVC9B-4J6C9-T83GX |
+| Windows 11 Pro N                     | MH37W-N47XK-V7XM9-C7227-GCQG9 |
+| Windows 11 Pro for Workstations      | NRG8B-VKK3Q-CXVCJ-9G2XF-6Q84J |
+| Windows 11 Pro for Workstations N    | 9FNHH-K3HBT-3W4TD-6383H-6XYWF |
+| Windows 11 Pro Education             | 6TP4R-GNPTD-KYYHQ-7B7DP-J447Y |
+| Windows 11 Pro Education N           | YVWGF-BXNMC-HTQYQ-CPQ99-66QFC |
 
-Windows 11 Pro for Workstations	: DXG7C-N36C4-C4HTG-X4T3X-2YV77
-
-Windows 11 Pro for Workstations N	: WYPNQ-8C467-V2W6J-TX4WX-WT2RQ
-
-Windows 11 Pro Education	: 8PTT6-RNW4C-6V7J2-C2D3X-MHBPB
-
-Windows 11 Pro Education N	: GJTYN-HDMQY-FRR76-HVGC7-QPF8P
 
 References
 ==========
